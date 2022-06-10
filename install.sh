@@ -20,6 +20,7 @@ echo -e " \e[99m\e[1;96m
 sleep 3
 clear
 chmod +x *
+# report.sh must 🥵
 chmod +x report.sh
 clear
 exit

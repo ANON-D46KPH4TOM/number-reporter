@@ -12,5 +12,5 @@ cd number-reporter
 ls
 
 chmod +x *
-
- bash report.sh
+./setup.sh
+ ./report.sh

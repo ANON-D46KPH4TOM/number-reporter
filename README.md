@@ -13,4 +13,4 @@ ls
 
 chmod +x *
 
- ./report.sh
+ bash report.sh

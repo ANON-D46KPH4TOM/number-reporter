@@ -7,9 +7,10 @@ The original WhatsApp reporting tool
 <li>cd number-reporter</li>
 <hr>
 <li>ls</li>
-
+<hr>
 <li>chmod +x *</li>
-
+<hr>
 <li>./setup.sh</li>
-
+<hr>
 <li>./report.sh</li>
+<hr>

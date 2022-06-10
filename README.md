@@ -1,18 +1,13 @@
 # number-reporter
-apt update
 
-pkg upgrade
+<li>git clone https://github.com/ANON-D46KPH4TOM/number-reporter</li>
 
-pkg install git
+<li>cd number-reporter</li>
 
-git clone https://github.com/ANON-D46KPH4TOM/number-reporter
+<li>ls</li>
 
-cd number-reporter
+<li>chmod +x *</li>
 
-ls
+<li>./setup.sh</li>
 
-chmod +x *
-
-./setup.sh
-
-./report.sh
+<li>./report.sh</li>

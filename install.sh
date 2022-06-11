@@ -24,4 +24,5 @@ chmod +x *
 chmod +x report.sh
 clear
 ./report.sh
+clear
 exit
